@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98aa1c37-2078-4988-b79b-a7550b267231" name="Default" comment="Test Message">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise10.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise6.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise7.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise8.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise9.py" />
+    <list default="true" id="98aa1c37-2078-4988-b79b-a7550b267231" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Intro_Exercises.iws" />
@@ -412,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1459599935657</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Test Message">
+      <created>1459631763060</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1459631763060</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
